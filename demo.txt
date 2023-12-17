@@ -1,0 +1,11 @@
+git init
+git status
+git add filename
+git commit -m "massgae"
+git log
+git add .
+git checkout 'hascode'
+git checkout master
+git checkout -b dev
+git merge dev
+git push -u origin master
